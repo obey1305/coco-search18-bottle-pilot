@@ -1,0 +1,52 @@
+dilation_px,decision_id,image,subject,origin,landing,category,spatial_pool,semantic_pool,status,reason
+0,train_split1|bottle|000000496294.jpg|subject=5|origin=0|destination=1,000000496294.jpg,5,0,1,dining table,113,23,matched,semantic_and_spatial
+0,train_split1|bottle|000000522129.jpg|subject=1|origin=0|destination=1,000000522129.jpg,1,0,1,void,0,0,excluded,chosen_void_or_crowd
+0,train_split1|bottle|000000522129.jpg|subject=2|origin=0|destination=1,000000522129.jpg,2,0,1,laptop,6,5,failed,fewer_than_8_semantic_alternatives
+0,train_split1|bottle|000000522129.jpg|subject=4|origin=0|destination=1,000000522129.jpg,4,0,1,void,0,0,excluded,chosen_void_or_crowd
+0,train_split1|bottle|000000522129.jpg|subject=7|origin=0|destination=1,000000522129.jpg,7,0,1,void,0,0,excluded,chosen_void_or_crowd
+0,train_split1|bottle|000000522129.jpg|subject=8|origin=0|destination=1,000000522129.jpg,8,0,1,void,0,0,excluded,chosen_void_or_crowd
+0,train_split1|bottle|000000522129.jpg|subject=9|origin=0|destination=1,000000522129.jpg,9,0,1,void,0,0,excluded,chosen_void_or_crowd
+0,train_split1|bottle|000000522129.jpg|subject=10|origin=0|destination=1,000000522129.jpg,10,0,1,cell phone,40,7,failed,fewer_than_8_semantic_alternatives
+0,train_split1|bottle|000000295317.jpg|subject=1|origin=0|destination=1,000000295317.jpg,1,0,1,tv,177,175,matched,semantic_and_spatial
+0,train_split1|bottle|000000295317.jpg|subject=2|origin=1|destination=2,000000295317.jpg,2,1,2,laptop,43,43,matched,semantic_and_spatial
+0,train_split1|bottle|000000295317.jpg|subject=2|origin=2|destination=3,000000295317.jpg,2,2,3,paper-merged,108,14,matched,semantic_and_spatial
+0,train_split1|bottle|000000295317.jpg|subject=3|origin=0|destination=1,000000295317.jpg,3,0,1,laptop,56,30,matched,semantic_and_spatial
+0,train_split1|bottle|000000295317.jpg|subject=5|origin=0|destination=1,000000295317.jpg,5,0,1,laptop,55,49,matched,semantic_and_spatial
+0,train_split1|bottle|000000295317.jpg|subject=6|origin=0|destination=1,000000295317.jpg,6,0,1,laptop,46,46,matched,semantic_and_spatial
+0,train_split1|bottle|000000295317.jpg|subject=7|origin=0|destination=1,000000295317.jpg,7,0,1,wall-other-merged,71,14,matched,semantic_and_spatial
+0,train_split1|bottle|000000295317.jpg|subject=8|origin=1|destination=2,000000295317.jpg,8,1,2,paper-merged,64,22,matched,semantic_and_spatial
+0,train_split1|bottle|000000295317.jpg|subject=9|origin=0|destination=1,000000295317.jpg,9,0,1,wall-other-merged,97,12,matched,semantic_and_spatial
+16,train_split1|bottle|000000496294.jpg|subject=5|origin=0|destination=1,000000496294.jpg,5,0,1,dining table,113,23,matched,semantic_and_spatial
+16,train_split1|bottle|000000522129.jpg|subject=1|origin=0|destination=1,000000522129.jpg,1,0,1,void,0,0,excluded,chosen_void_or_crowd
+16,train_split1|bottle|000000522129.jpg|subject=2|origin=0|destination=1,000000522129.jpg,2,0,1,laptop,6,5,failed,fewer_than_8_semantic_alternatives
+16,train_split1|bottle|000000522129.jpg|subject=4|origin=0|destination=1,000000522129.jpg,4,0,1,void,0,0,excluded,chosen_void_or_crowd
+16,train_split1|bottle|000000522129.jpg|subject=7|origin=0|destination=1,000000522129.jpg,7,0,1,void,0,0,excluded,chosen_void_or_crowd
+16,train_split1|bottle|000000522129.jpg|subject=8|origin=0|destination=1,000000522129.jpg,8,0,1,void,0,0,excluded,chosen_void_or_crowd
+16,train_split1|bottle|000000522129.jpg|subject=9|origin=0|destination=1,000000522129.jpg,9,0,1,void,0,0,excluded,chosen_void_or_crowd
+16,train_split1|bottle|000000522129.jpg|subject=10|origin=0|destination=1,000000522129.jpg,10,0,1,cell phone,26,5,failed,fewer_than_8_semantic_alternatives
+16,train_split1|bottle|000000295317.jpg|subject=1|origin=0|destination=1,000000295317.jpg,1,0,1,tv,177,175,matched,semantic_and_spatial
+16,train_split1|bottle|000000295317.jpg|subject=2|origin=1|destination=2,000000295317.jpg,2,1,2,laptop,43,43,matched,semantic_and_spatial
+16,train_split1|bottle|000000295317.jpg|subject=2|origin=2|destination=3,000000295317.jpg,2,2,3,paper-merged,108,14,matched,semantic_and_spatial
+16,train_split1|bottle|000000295317.jpg|subject=3|origin=0|destination=1,000000295317.jpg,3,0,1,laptop,56,30,matched,semantic_and_spatial
+16,train_split1|bottle|000000295317.jpg|subject=5|origin=0|destination=1,000000295317.jpg,5,0,1,laptop,55,49,matched,semantic_and_spatial
+16,train_split1|bottle|000000295317.jpg|subject=6|origin=0|destination=1,000000295317.jpg,6,0,1,laptop,46,46,matched,semantic_and_spatial
+16,train_split1|bottle|000000295317.jpg|subject=7|origin=0|destination=1,000000295317.jpg,7,0,1,wall-other-merged,68,14,matched,semantic_and_spatial
+16,train_split1|bottle|000000295317.jpg|subject=8|origin=1|destination=2,000000295317.jpg,8,1,2,paper-merged,64,22,matched,semantic_and_spatial
+16,train_split1|bottle|000000295317.jpg|subject=9|origin=0|destination=1,000000295317.jpg,9,0,1,wall-other-merged,97,12,matched,semantic_and_spatial
+32,train_split1|bottle|000000496294.jpg|subject=5|origin=0|destination=1,000000496294.jpg,5,0,1,dining table,113,23,matched,semantic_and_spatial
+32,train_split1|bottle|000000522129.jpg|subject=1|origin=0|destination=1,000000522129.jpg,1,0,1,void,0,0,excluded,chosen_void_or_crowd
+32,train_split1|bottle|000000522129.jpg|subject=2|origin=0|destination=1,000000522129.jpg,2,0,1,laptop,6,5,failed,fewer_than_8_semantic_alternatives
+32,train_split1|bottle|000000522129.jpg|subject=4|origin=0|destination=1,000000522129.jpg,4,0,1,void,0,0,excluded,chosen_void_or_crowd
+32,train_split1|bottle|000000522129.jpg|subject=7|origin=0|destination=1,000000522129.jpg,7,0,1,void,0,0,excluded,chosen_void_or_crowd
+32,train_split1|bottle|000000522129.jpg|subject=8|origin=0|destination=1,000000522129.jpg,8,0,1,void,0,0,excluded,chosen_void_or_crowd
+32,train_split1|bottle|000000522129.jpg|subject=9|origin=0|destination=1,000000522129.jpg,9,0,1,void,0,0,excluded,chosen_void_or_crowd
+32,train_split1|bottle|000000522129.jpg|subject=10|origin=0|destination=1,000000522129.jpg,10,0,1,,0,0,excluded,target_mask_entry_at_or_before_landing
+32,train_split1|bottle|000000295317.jpg|subject=1|origin=0|destination=1,000000295317.jpg,1,0,1,tv,177,175,matched,semantic_and_spatial
+32,train_split1|bottle|000000295317.jpg|subject=2|origin=1|destination=2,000000295317.jpg,2,1,2,laptop,43,43,matched,semantic_and_spatial
+32,train_split1|bottle|000000295317.jpg|subject=2|origin=2|destination=3,000000295317.jpg,2,2,3,paper-merged,108,14,matched,semantic_and_spatial
+32,train_split1|bottle|000000295317.jpg|subject=3|origin=0|destination=1,000000295317.jpg,3,0,1,laptop,56,30,matched,semantic_and_spatial
+32,train_split1|bottle|000000295317.jpg|subject=5|origin=0|destination=1,000000295317.jpg,5,0,1,laptop,55,49,matched,semantic_and_spatial
+32,train_split1|bottle|000000295317.jpg|subject=6|origin=0|destination=1,000000295317.jpg,6,0,1,laptop,46,46,matched,semantic_and_spatial
+32,train_split1|bottle|000000295317.jpg|subject=7|origin=0|destination=1,000000295317.jpg,7,0,1,,0,0,excluded,target_mask_entry_at_or_before_landing
+32,train_split1|bottle|000000295317.jpg|subject=8|origin=1|destination=2,000000295317.jpg,8,1,2,paper-merged,64,22,matched,semantic_and_spatial
+32,train_split1|bottle|000000295317.jpg|subject=9|origin=0|destination=1,000000295317.jpg,9,0,1,wall-other-merged,97,12,matched,semantic_and_spatial

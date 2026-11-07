@@ -1,0 +1,35 @@
+[
+  {
+    "image_id": 295317,
+    "original_width": 640,
+    "original_height": 480,
+    "width": 1400,
+    "height": 1050,
+    "left": 140,
+    "top": 0,
+    "method": "BILINEAR",
+    "mean_absolute_rgb_error": 0.7066666666666667
+  },
+  {
+    "image_id": 295317,
+    "original_width": 640,
+    "original_height": 480,
+    "width": 1400,
+    "height": 1050,
+    "left": 140,
+    "top": 0,
+    "method": "BICUBIC",
+    "mean_absolute_rgb_error": 1.0369995464852608
+  },
+  {
+    "image_id": 295317,
+    "original_width": 640,
+    "original_height": 480,
+    "width": 1400,
+    "height": 1050,
+    "left": 140,
+    "top": 0,
+    "method": "LANCZOS",
+    "mean_absolute_rgb_error": 1.319189342403628
+  }
+]

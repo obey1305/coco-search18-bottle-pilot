@@ -1,0 +1,16 @@
+{
+  "source": "http://images.cocodataset.org/annotations/panoptic_annotations_trainval2017.zip",
+  "checked_date": "2026-10-10",
+  "files": {
+    "295317_original.jpg": "9221629717cc3fd6d434af384042dddf56880e4b2f2d0025b2cbdcf8862ed1b0",
+    "522129_original.jpg": "90d3b52609616e06f45e2db44de7d3ae2929b61b902cfca4325b32db611c0aa7",
+    "496294_original.jpg": "079f2d008513d4afe45ecdbf0ddd391c6e549fbd1f3438feb669a4db048c3a17",
+    "295317_panoptic.png": "fe34815e6e427c1028e5a25d224ca274bbacbe8a317633bdd073d6c6022f4803",
+    "522129_panoptic.png": "e27f5c384b470aa3783387e80f86e2294a305369f0e5fe18492b534ca0c73581",
+    "496294_panoptic.png": "81c6fc0b7b6117ddb1e4ac75be03b32bf7aac94cced7ddc13264ae337c18c47b",
+    "496294_annotation.json": "2c9eea0abb28861dfcda535d5468278b88dc38ee2decbea27e7a25b342b08798",
+    "522129_annotation.json": "8591b4e5637bece7b34d07353e7aa3739bb5838f08a2893c6f90c4af6dc2e714",
+    "295317_annotation.json": "0dbb83d16af157669e7e1fd3e12fc4de5966e2241def62b9f9cbd1c7235dd08d"
+  },
+  "archive_sha256": "c05f76d2129b6b561eb70efe16e7006df62f73fb92889132d373b9d90e31a370"
+}

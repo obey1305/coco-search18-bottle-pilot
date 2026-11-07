@@ -1,0 +1,4 @@
+gaze_band,input_decisions,matched,support_excluded,pool_failed,alternatives,mean_abs_delta_gaze,mean_abs_delta_centre,mean_abs_delta_target
+0–<100 px,0,0,0,0,0,,,
+100–<300 px,8,6,0,2,48,7.671663988288621,10.117581836474445,16.82318674131722
+300+ px,9,9,0,0,72,6.876547565544386,13.195483468661756,17.440182594899152

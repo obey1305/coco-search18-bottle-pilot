@@ -1,0 +1,208 @@
+{
+  "source": "http://vision.cs.stonybrook.edu/~cvlab_download/COCOSearch18-fixations-TP.zip",
+  "sha256": "ebeeb3d80786b4cf3dac34cbbcd5fff700aa797d69a37104a95c30e7132f2a9b",
+  "files": [
+    "coco_search18_fixations_TP_train_split1.json",
+    "coco_search18_fixations_TP_validation_split1.json"
+  ],
+  "trials": 24880,
+  "images": 2241,
+  "subjects": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "categories": 18,
+  "correct_trials": 22946,
+  "pretarget_nontarget_transitions": 22370,
+  "representative": {
+    "name": "000000478726.jpg",
+    "subject": 2,
+    "task": "bottle",
+    "condition": "present",
+    "bbox": [
+      1063,
+      68,
+      95,
+      334
+    ],
+    "X": [
+      848.2,
+      799.2,
+      731.1,
+      1114.4,
+      1121.5
+    ],
+    "Y": [
+      517.2,
+      476.2,
+      383.4,
+      271.1,
+      205.9
+    ],
+    "T": [
+      73,
+      193,
+      95,
+      635,
+      592
+    ],
+    "length": 5,
+    "correct": 1,
+    "RT": 1159,
+    "split": "train"
+  },
+  "table": [
+    {
+      "task": "bottle",
+      "images": 133,
+      "trials": 1330,
+      "correct_trials": 1105,
+      "pretarget_nontarget_transitions": 1612,
+      "median_distance_px": 262.3
+    },
+    {
+      "task": "bowl",
+      "images": 113,
+      "trials": 1130,
+      "correct_trials": 904,
+      "pretarget_nontarget_transitions": 1457,
+      "median_distance_px": 236.0
+    },
+    {
+      "task": "car",
+      "images": 84,
+      "trials": 840,
+      "correct_trials": 736,
+      "pretarget_nontarget_transitions": 853,
+      "median_distance_px": 288.9
+    },
+    {
+      "task": "chair",
+      "images": 203,
+      "trials": 2024,
+      "correct_trials": 1795,
+      "pretarget_nontarget_transitions": 2412,
+      "median_distance_px": 268.9
+    },
+    {
+      "task": "clock",
+      "images": 96,
+      "trials": 960,
+      "correct_trials": 945,
+      "pretarget_nontarget_transitions": 485,
+      "median_distance_px": 263.8
+    },
+    {
+      "task": "cup",
+      "images": 221,
+      "trials": 2210,
+      "correct_trials": 2010,
+      "pretarget_nontarget_transitions": 2125,
+      "median_distance_px": 275.1
+    },
+    {
+      "task": "fork",
+      "images": 184,
+      "trials": 1840,
+      "correct_trials": 1771,
+      "pretarget_nontarget_transitions": 1755,
+      "median_distance_px": 344.0
+    },
+    {
+      "task": "keyboard",
+      "images": 148,
+      "trials": 1480,
+      "correct_trials": 1351,
+      "pretarget_nontarget_transitions": 722,
+      "median_distance_px": 203.4
+    },
+    {
+      "task": "knife",
+      "images": 113,
+      "trials": 1130,
+      "correct_trials": 1011,
+      "pretarget_nontarget_transitions": 1120,
+      "median_distance_px": 321.7
+    },
+    {
+      "task": "laptop",
+      "images": 99,
+      "trials": 990,
+      "correct_trials": 946,
+      "pretarget_nontarget_transitions": 875,
+      "median_distance_px": 255.2
+    },
+    {
+      "task": "microwave",
+      "images": 125,
+      "trials": 1249,
+      "correct_trials": 1214,
+      "pretarget_nontarget_transitions": 1263,
+      "median_distance_px": 282.8
+    },
+    {
+      "task": "mouse",
+      "images": 88,
+      "trials": 878,
+      "correct_trials": 844,
+      "pretarget_nontarget_transitions": 729,
+      "median_distance_px": 296.9
+    },
+    {
+      "task": "oven",
+      "images": 81,
+      "trials": 810,
+      "correct_trials": 723,
+      "pretarget_nontarget_transitions": 719,
+      "median_distance_px": 186.0
+    },
+    {
+      "task": "potted plant",
+      "images": 124,
+      "trials": 1240,
+      "correct_trials": 1031,
+      "pretarget_nontarget_transitions": 1515,
+      "median_distance_px": 268.7
+    },
+    {
+      "task": "sink",
+      "images": 224,
+      "trials": 2240,
+      "correct_trials": 2171,
+      "pretarget_nontarget_transitions": 2118,
+      "median_distance_px": 243.7
+    },
+    {
+      "task": "stop sign",
+      "images": 101,
+      "trials": 1010,
+      "correct_trials": 967,
+      "pretarget_nontarget_transitions": 419,
+      "median_distance_px": 279.8
+    },
+    {
+      "task": "toilet",
+      "images": 127,
+      "trials": 1269,
+      "correct_trials": 1250,
+      "pretarget_nontarget_transitions": 729,
+      "median_distance_px": 231.5
+    },
+    {
+      "task": "tv",
+      "images": 225,
+      "trials": 2250,
+      "correct_trials": 2172,
+      "pretarget_nontarget_transitions": 1462,
+      "median_distance_px": 231.4
+    }
+  ]
+}

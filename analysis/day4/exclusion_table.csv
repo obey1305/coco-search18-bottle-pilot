@@ -1,0 +1,4 @@
+image,trials,fixations,adjacent_pairs,retained,incorrect_trial,target_entry_or_later,invalid_coordinate_endpoint,invalid_origin_duration
+000000496294.jpg,10,71,61,1,19,41,0,0
+000000522129.jpg,10,38,28,7,3,17,0,1
+000000295317.jpg,10,38,28,9,0,16,0,3

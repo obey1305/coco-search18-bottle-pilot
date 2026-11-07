@@ -1,0 +1,50 @@
+{
+  "alignment": [
+    {
+      "image_id": 496294,
+      "target_instances": 1,
+      "target_pixels": 105374,
+      "original_mask_area_verified": true,
+      "mean_absolute_rgb_error": 0.8880915409642117
+    },
+    {
+      "image_id": 522129,
+      "target_instances": 1,
+      "target_pixels": 50425,
+      "original_mask_area_verified": true,
+      "mean_absolute_rgb_error": 1.8308938775510204
+    },
+    {
+      "image_id": 295317,
+      "target_instances": 1,
+      "target_pixels": 25424,
+      "original_mask_area_verified": true,
+      "mean_absolute_rgb_error": 0.7066666666666667
+    }
+  ],
+  "sensitivity": [
+    {
+      "dilation": 0,
+      "attempted": 17,
+      "matched": 10,
+      "failed": 2,
+      "excluded": 5
+    },
+    {
+      "dilation": 16,
+      "attempted": 17,
+      "matched": 10,
+      "failed": 2,
+      "excluded": 5
+    },
+    {
+      "dilation": 32,
+      "attempted": 17,
+      "matched": 9,
+      "failed": 1,
+      "excluded": 7
+    }
+  ],
+  "primary_rows": 90,
+  "checks": "Original PNG segment IDs and areas; nearest-neighbour ID preservation; calipers; target mask and history; category; thing area; eight unique alternatives; counts"
+}

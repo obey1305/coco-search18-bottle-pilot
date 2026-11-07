@@ -1,0 +1,85 @@
+{
+  "image": "000000496294.jpg",
+  "sha256": "c2cb0da1931168ea16d651f088e4d4144fd737618e256f4a25b6385af385270a",
+  "content_bounds": [
+    0,
+    41,
+    1680,
+    1009
+  ],
+  "centre_pixels": 797,
+  "surround_pixels": 9648,
+  "valid_centres": 1303680,
+  "excluded_centres": 460320,
+  "minimum": 0.001057912195616604,
+  "maximum": 49.79641564275055,
+  "max_five_point_error": 3.3928415632544784e-13,
+  "tests": "PASS: black/white/red conversion; uniform colour; synthetic 3-4-5 contrast; eight boundary cases; masked values; five direct comparisons",
+  "points": [
+    {
+      "label": "A",
+      "x_px": 840,
+      "y_px": 525,
+      "centre_a": -0.038962063420521206,
+      "centre_b": 0.682545851522064,
+      "surround_a": 0.9188623858809871,
+      "surround_b": 3.3923640131360324,
+      "direct_contrast": 2.8741158892244836,
+      "map_contrast": 2.874115889224495,
+      "absolute_error": 1.1546319456101628e-14,
+      "status": "valid"
+    },
+    {
+      "label": "B",
+      "x_px": 400,
+      "y_px": 500,
+      "centre_a": -5.2336295250471565,
+      "centre_b": 32.3528873149696,
+      "surround_a": -1.6281042231424434,
+      "surround_b": 23.82673507309611,
+      "direct_contrast": 9.257163969287754,
+      "map_contrast": 9.257163969287447,
+      "absolute_error": 3.0730973321624333e-13,
+      "status": "valid"
+    },
+    {
+      "label": "C",
+      "x_px": 1050,
+      "y_px": 350,
+      "centre_a": 2.9525522863112403,
+      "centre_b": 12.944618378289501,
+      "surround_a": 3.2124879741825825,
+      "surround_b": 2.7308465125924286,
+      "direct_contrast": 10.217078950773269,
+      "map_contrast": 10.217078950773224,
+      "absolute_error": 4.440892098500626e-14,
+      "status": "valid"
+    },
+    {
+      "label": "D",
+      "x_px": 1480,
+      "y_px": 350,
+      "centre_a": 1.9229790811011014,
+      "centre_b": 1.2413015509028342,
+      "surround_a": 12.669088042504125,
+      "surround_b": 23.379171689459714,
+      "direct_contrast": 24.60821310217292,
+      "map_contrast": 24.608213102172773,
+      "absolute_error": 1.4566126083082054e-13,
+      "status": "valid"
+    },
+    {
+      "label": "E",
+      "x_px": 900,
+      "y_px": 750,
+      "centre_a": 1.779880543039223,
+      "centre_b": 31.231544351320284,
+      "surround_a": 1.0694029489473904,
+      "surround_b": 20.170457927691473,
+      "direct_contrast": 11.083880695978829,
+      "map_contrast": 11.08388069597849,
+      "absolute_error": 3.3928415632544784e-13,
+      "status": "valid"
+    }
+  ]
+}

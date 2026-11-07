@@ -1,0 +1,10 @@
+{
+  "input_decisions": 17,
+  "matched": 15,
+  "support_excluded": 0,
+  "pool_failed": 2,
+  "candidate_rows": 135,
+  "status": "spatial matching only",
+  "semantic_status": "Public archive reachable; no downloaded, aligned and verified semantic masks in pilot",
+  "validation": "PASS: box-distance reference cases; adjacency; eight unique alternatives; calipers; prior-view status; support; target-box exclusion; row reconciliation"
+}

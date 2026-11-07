@@ -1,0 +1,79 @@
+{
+  "image": "000000496294.jpg",
+  "image_sha256": "c2cb0da1931168ea16d651f088e4d4144fd737618e256f4a25b6385af385270a",
+  "synthetic_tests": {
+    "vertical_stripe_responses": [
+      6.2752016752122355,
+      0.3491992657622324,
+      0.0029286827436962428,
+      0.3491992657622324
+    ],
+    "horizontal_stripe_responses": [
+      0.002928682743696628,
+      0.34919926576223714,
+      6.275201675212274,
+      0.34919926576223714
+    ],
+    "status": "PASS: preferred orientation, transpose symmetry, kernel norm/DC, uniform fields, known L* step"
+  },
+  "orientation_valid_centres": 1191168,
+  "luminance_valid_centres": 1303680,
+  "photograph_tests": "PASS: five direct centre-surround checks per feature; 20 direct Gabor checks; 16 boundary cases; valid/excluded arrays",
+  "points": [
+    {
+      "label": "A",
+      "x": 840,
+      "y": 525,
+      "orientation": 0.07629827349586278,
+      "orientation_direct": 0.07629827349586318,
+      "orientation_error": 4.0245584642661925e-16,
+      "luminance": 19.448426048467823,
+      "luminance_direct": 19.448426048467837,
+      "luminance_error": 1.4210854715202004e-14
+    },
+    {
+      "label": "B",
+      "x": 400,
+      "y": 500,
+      "orientation": 0.0857860877503478,
+      "orientation_direct": 0.08578608775034734,
+      "orientation_error": 4.579669976578771e-16,
+      "luminance": 0.8400395824381773,
+      "luminance_direct": 0.8400395824381732,
+      "luminance_error": 4.107825191113079e-15
+    },
+    {
+      "label": "C",
+      "x": 1050,
+      "y": 350,
+      "orientation": 0.12509653012583005,
+      "orientation_direct": 0.12509653012583,
+      "orientation_error": 5.551115123125783e-17,
+      "luminance": 3.761054835941198,
+      "luminance_direct": 3.761054835941181,
+      "luminance_error": 1.7319479184152442e-14
+    },
+    {
+      "label": "D",
+      "x": 1480,
+      "y": 350,
+      "orientation": 0.06040238263445865,
+      "orientation_direct": 0.06040238263445866,
+      "orientation_error": 6.938893903907228e-18,
+      "luminance": 18.14790606319367,
+      "luminance_direct": 18.147906063193673,
+      "luminance_error": 3.552713678800501e-15
+    },
+    {
+      "label": "E",
+      "x": 900,
+      "y": 750,
+      "orientation": 0.09461136248105483,
+      "orientation_direct": 0.09461136248105517,
+      "orientation_error": 3.469446951953614e-16,
+      "luminance": 3.2903953365411875,
+      "luminance_direct": 3.290395336541188,
+      "luminance_error": 4.440892098500626e-16
+    }
+  ]
+}

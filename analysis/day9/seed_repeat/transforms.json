@@ -1,0 +1,35 @@
+[
+  {
+    "image_id": 496294,
+    "original_width": 640,
+    "original_height": 368,
+    "width": 1680,
+    "height": 966,
+    "left": 0,
+    "top": 42,
+    "method": "BILINEAR",
+    "mean_absolute_rgb_error": 0.8880915409642117
+  },
+  {
+    "image_id": 522129,
+    "original_width": 640,
+    "original_height": 480,
+    "width": 1400,
+    "height": 1050,
+    "left": 140,
+    "top": 0,
+    "method": "BILINEAR",
+    "mean_absolute_rgb_error": 1.8308938775510204
+  },
+  {
+    "image_id": 295317,
+    "original_width": 640,
+    "original_height": 480,
+    "width": 1400,
+    "height": 1050,
+    "left": 140,
+    "top": 0,
+    "method": "BILINEAR",
+    "mean_absolute_rgb_error": 0.7066666666666667
+  }
+]

@@ -1,0 +1,4 @@
+chosen_gaze_band_px,alternatives,mean_abs_gaze_difference,mean_abs_centre_difference,mean_abs_target_difference
+below 100,0,,,
+100 to below 300,32,7.315107410229971,13.85502378003328,15.4092745583513
+300 and above,48,8.89845734869412,11.205687963475688,15.96006848861712
