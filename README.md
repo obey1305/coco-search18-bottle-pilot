@@ -3,8 +3,18 @@ A small COCO-Search18 bottle-search pilot. When people search for a bottle, do t
 
 **Start here:** [Picture-story presentation](presentation/Find_the_bottle.pptx) · [One-page research update](presentation/Pilot_update.pdf) · [Results figure](analysis/day8/descriptive_contrast.png)
 
+## Research question and methods
+
+Does local visual contrast at a fixation landing differ from contrast at matched alternative locations during bottle search? The pilot uses COCO-Search18 fixation records and stimulus images, with COCO 2017 panoptic annotations for semantic matching. The staged workflow calculates colour, orientation and lightness features, applies spatial and semantic matching, records exclusions, and checks sensitivity to patch size and comparison selection. The linked stage READMEs specify the implemented matching rules and commands.
+
+My contributions include the research question, Python analysis workflow, feature exploration, comparison design, and documentation of results and exclusions.
+
 ## What we found
 We processed 30 searches across three pictures. Of 17 eligible eye movements, 10 had eight suitable comparison spots each. Five locations lacked a category label and two had too few alternatives. Compared with their alternatives’ average, 3 of 10 landings had higher colour contrast, 5 had higher orientation contrast, and 3 had higher lightness contrast. Nine landings came from one image. These are descriptive counts; they do not show what caused an eye movement.
+
+## Current status and limitations
+
+The descriptive pilot analysis is complete for the fixed sample documented here; it is not a full-dataset study or a causal test. Only 10 landings met the comparison criteria, and nine came from one image, so the observations do not support broad generalization. Semantic labels and the availability of alternative locations affect which movements can be analyzed. The sensitivity outputs should be read alongside the primary results.
 
 ## Explore the project
 | Folder | Contents |
